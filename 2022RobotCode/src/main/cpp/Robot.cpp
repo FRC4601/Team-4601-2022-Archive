@@ -7,6 +7,18 @@
 #include <frc/drive/DifferentialDrive.h>
 #include <frc/motorcontrol/PWMSparkMax.h>
 
+#include <iostream>
+#include <memory>
+
+// Limelight directives
+// API - https://docs.limelightvision.io/en/latest/getting_started.html
+#include <frc/smartdashboard/SmartDashboard.h>
+#include <networktables/NetworkTable.h>
+#include <networktables/NetworkTableInstance.h>
+#include <networktables/NetworkTableEntry.h>
+#include <networktables/NetworkTableValue.h>
+#include <wpi/span.h>
+
 /**
  * This is a demo program showing the use of the DifferentialDrive class.
  * Runs the motors with tank steering.
