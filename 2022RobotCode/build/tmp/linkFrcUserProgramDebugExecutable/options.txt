@@ -2,6 +2,9 @@
 C:\\Users\\CircuitBirds\\Desktop\\2022-RobotCode\\2022RobotCode\\build\\exe\\frcUserProgram\\debug\\frcUserProgram
 C:\\Users\\CircuitBirds\\Desktop\\2022-RobotCode\\2022RobotCode\\build\\objs\\frcUserProgram\\debug\\frcUserProgramCpp\\3bg5a77l7vd4edmrxq5jco6ri\\Robot.o
 C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-3\\084011337298d30760d56fc1214a8fd4\\transformed\\wpilibNewCommands-cpp-2022.2.1-linuxathenadebug\\linux\\athena\\shared\\libwpilibNewCommandsd.so
+C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-3\\76ebc6453cf1c62bac36b2da8dfdd93e\\transformed\\wpiapi-cpp-5.20.2-linuxathenadebug\\linux\\athena\\shared\\libCTRE_Phoenix_WPI.so
+C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-3\\f7dcb33a525fc5d11e5dd622c14dc93d\\transformed\\api-cpp-5.20.2-linuxathenadebug\\linux\\athena\\shared\\libCTRE_Phoenix.so
+C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-3\\aa7edc54158dd77aab8aaa19b3483770\\transformed\\cci-5.20.2-linuxathenadebug\\linux\\athena\\shared\\libCTRE_PhoenixCCI.so
 C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-3\\30540ca171eef050c3d74fd64e120e68\\transformed\\wpilibc-cpp-2022.2.1-linuxathenadebug\\linux\\athena\\shared\\libwpilibcd.so
 C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-3\\cec3196f9d61c37f30e3873157c67201\\transformed\\ntcore-cpp-2022.2.1-linuxathenadebug\\linux\\athena\\shared\\libntcored.so
 C:\\Users\\CircuitBirds\\.gradle\\caches\\transforms-3\\1b4de68abc3472e9e538d0fa69ecd771\\transformed\\hal-cpp-2022.2.1-linuxathenadebug\\linux\\athena\\shared\\libwpiHald.so
